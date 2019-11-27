@@ -5,7 +5,7 @@
  * 
  * **/
 
-const _U = require('./libs/utils');
+const _U = require('../libs/utils');
 
 const n = 10,   // 数组中数的个数    如果使用 Math.min 最大值为：125276
   flagIndex = false;     // 只输出最小数的位置 还是位置和值       true 位置索引   false 索引+值

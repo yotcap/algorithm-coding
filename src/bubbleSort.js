@@ -6,7 +6,7 @@
  * 
  */
 
-const _U = require('./libs/utils');
+const _U = require('../libs/utils');
 
 const arr = _U.getRandomArr(10);
 
