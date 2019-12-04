@@ -2,6 +2,7 @@
 一些算法的JS实现
 
 ## 索引
+[快速排序](./src/quickSort.js)
 [冒泡排序](./src/bubbleSort.js)  
 [二分查找](./src/binarySearch.js)  
 [判断质数](./src/isPrimeNum.js)  
