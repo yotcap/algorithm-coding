@@ -11,7 +11,7 @@
 [找出数组中最小的三个数](./src/findThirdMin.js)  
 [找出数组中两值的和等于目标值](./src/twoSum.js)  
 
-[岛屿数量 (DFS)](./src/number-of-islands)  
+[岛屿数量 (DFS)](./src/number-of-islands.js)  
 
 [杨辉三角](./src/huiyangTriangle.js)  
 [LazyMan 的 ES5, ES6 的实现](./src/lazyMan.js)  
