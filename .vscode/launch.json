@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/src/number-of-islands.js"
+      "program": "${workspaceFolder}/src/surrounded-regions.js"
     }
   ]
 }
